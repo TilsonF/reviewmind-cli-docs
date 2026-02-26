@@ -28,7 +28,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'TilsonF',
-  projectName: 'reviewmind-cli',
+  projectName: 'reviewmind-cli-docs',
 
   onBrokenLinks: 'throw',
 
@@ -48,7 +48,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           routeBasePath: '/',
-          editUrl: 'https://github.com/TilsonF/reviewmind-cli/tree/main/docs-site/',
+          editUrl: 'https://github.com/TilsonF/reviewmind-cli-docs/tree/main/',
         },
         blog: false,
         theme: {
